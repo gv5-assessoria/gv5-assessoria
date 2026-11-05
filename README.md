@@ -54,4 +54,8 @@ Agora imagina esse efeito no anúncio da sua empresa. [Vamos conversar?](https:/
 
 <img src="./assets/rodape.svg" width="100%" alt="Nunca parar de crescer. GV5 Assessoria, ABC."/>
 
+<br/>
+
+<a href="https://github.com/dg-2025"><img src="./assets/dev.svg" width="420" alt="Dev responsável: Daniel Gomes, @dg-2025"/></a>
+
 </div>
