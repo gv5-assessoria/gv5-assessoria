@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 450" width="1280" height="450" role="img" aria-label="Cases: Pizzaria San Felix ROAS 16,29; Lig Lig ROAS 15; Empório Coisa de Minas ROAS 14; LM Pastéis ROAS 10"><style>text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;}
+@media (prefers-reduced-motion:reduce){*{animation-duration:.01s!important;animation-delay:0s!important;animation-iteration-count:1!important;}}@keyframes b0{from{width:0}to{width:470px}}@keyframes b1{from{width:0}to{width:433px}}@keyframes b2{from{width:0}to{width:404px}}@keyframes b3{from{width:0}to{width:289px}}</style><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1a2e"/><stop offset="1" stop-color="#050a12"/></linearGradient>
+<radialGradient id="brilho" cx=".95" cy="0" r=".8"><stop offset="0" stop-color="#d42020" stop-opacity=".22"/><stop offset="1" stop-color="#d42020" stop-opacity="0"/></radialGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#b01818"/><stop offset="1" stop-color="#ff3333"/></linearGradient></defs>
+<rect width="1280" height="450" rx="22" fill="url(#bg)"/>
+<rect width="1280" height="450" rx="22" fill="url(#brilho)"/>
+<rect x=".75" y=".75" width="1278.5" height="448.5" rx="21.5" fill="none" stroke="#192d4a" stroke-width="1.5"/>
+<text x="40" y="62" font-size="15" font-weight="700" letter-spacing="3" fill="#ff3333">CASES</text>
+<text x="170" y="62" font-size="15" fill="#7a8fa8">quanto voltou a cada R$ 1 investido em anúncios</text>
+<line x1="40" x2="1240" y1="88" y2="88" stroke="#192d4a"/><text x="40" y="136" font-size="21" font-weight="700" fill="#fff">Pizzaria San Felix</text>
+<text x="40" y="163" font-size="15" fill="#7a8fa8">R$ 178,95 investidos → <tspan fill="#b0c4d8" font-weight="700">R$ 2.914,72</tspan> de retorno · no primeiro fim de semana</text>
+<rect x="640" y="122" width="470" height="24" rx="12" fill="#122138"/>
+<rect x="640" y="122" height="24" rx="12" fill="url(#bar)" style="width:470px;animation:b0 2s 0.30s cubic-bezier(.16,1,.3,1) backwards"/>
+<text x="1240" y="142" text-anchor="end" font-size="26" font-weight="900" fill="#fff">16,29<tspan fill="#ff3333" font-size="17" dx="3">ROAS</tspan></text><text x="40" y="212" font-size="21" font-weight="700" fill="#fff">Lig Lig</text>
+<text x="40" y="239" font-size="15" fill="#7a8fa8">R$ 1.250,00 investidos → <tspan fill="#b0c4d8" font-weight="700">R$ 18.750,00</tspan> de retorno</text>
+<rect x="640" y="198" width="470" height="24" rx="12" fill="#122138"/>
+<rect x="640" y="198" height="24" rx="12" fill="url(#bar)" style="width:433px;animation:b1 2s 0.55s cubic-bezier(.16,1,.3,1) backwards"/>
+<text x="1240" y="218" text-anchor="end" font-size="26" font-weight="900" fill="#fff">15,0<tspan fill="#ff3333" font-size="17" dx="3">ROAS</tspan></text><text x="40" y="288" font-size="21" font-weight="700" fill="#fff">Empório Coisa de Minas</text>
+<text x="40" y="315" font-size="15" fill="#7a8fa8">R$ 1.565,00 investidos → <tspan fill="#b0c4d8" font-weight="700">R$ 21.910,00</tspan> de retorno</text>
+<rect x="640" y="274" width="470" height="24" rx="12" fill="#122138"/>
+<rect x="640" y="274" height="24" rx="12" fill="url(#bar)" style="width:404px;animation:b2 2s 0.80s cubic-bezier(.16,1,.3,1) backwards"/>
+<text x="1240" y="294" text-anchor="end" font-size="26" font-weight="900" fill="#fff">14,0<tspan fill="#ff3333" font-size="17" dx="3">ROAS</tspan></text><text x="40" y="364" font-size="21" font-weight="700" fill="#fff">LM Pastéis</text>
+<text x="40" y="391" font-size="15" fill="#7a8fa8">R$ 5.257,00 investidos → <tspan fill="#b0c4d8" font-weight="700">R$ 52.673,00</tspan> de retorno</text>
+<rect x="640" y="350" width="470" height="24" rx="12" fill="#122138"/>
+<rect x="640" y="350" height="24" rx="12" fill="url(#bar)" style="width:289px;animation:b3 2s 1.05s cubic-bezier(.16,1,.3,1) backwards"/>
+<text x="1240" y="370" text-anchor="end" font-size="26" font-weight="900" fill="#fff">10,0<tspan fill="#ff3333" font-size="17" dx="3">ROAS</tspan></text></svg>
